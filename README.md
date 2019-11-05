@@ -1,7 +1,7 @@
 # DataGovs 
 A public sector collaborative initiative in Miami-Dade County with the goal of organizing around efforts for data governance, data sharing and encouraging best practices across departments to serve residents.
  
-<img src="i.imgur.com/xZ7xCvS.png">
+<img src="imgur.com/xZ7xCvS.png">
 This is an intiative proposed by [Gregory Johnson](https://www.HiGregory.com/) and started with local municapal leaders of technology 
 such as the City of Miami, City of Coral Gables and Miami-Dade County. As technology grows a growing problem is data governance. Cities need to colloborate to share best practices, data and other forms of information to better serve residents. 
 
