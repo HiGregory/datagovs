@@ -1,5 +1,6 @@
 # DataGovs 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/HkCv9Br"><a href="//imgur.com/a/HkCv9Br"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![Image of Data Govs](https://imgur.com/a/HkCv9Br)
 
 ## Purpose
 Data Govs is a public-private collaborative network in South Florida that brings City and County employees, inspiring them by sharing best practices of data/tech projects in a positively supportive enviornments. 
