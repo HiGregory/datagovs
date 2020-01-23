@@ -19,9 +19,9 @@ This is an intiative proposed by [Gregory Johnson](https://www.HiGregory.com/) o
 
 ## Timeline
 
-Nove 2019 | 11.5.19 - First Meeting at City of Gables (Police Department)
-Jan 2020 | 01.16.2020 - 2nd Meeting at Microsoft/WEWork (Brickell City Centre)
-March 2020 | TBD 
+- Nov 2019 | 11.5.19 - First Meeting at City of Gables (Police Department)
+- Jan 2020 | 01.16.2020 - 2nd Meeting at Microsoft/WEWork (Brickell City Centre)
+- March 2020 | TBD 
 
 # Work in progress
 - Demonstrating a pilot proof of concept between partners on MOT.
