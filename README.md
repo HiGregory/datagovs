@@ -7,8 +7,7 @@ Data Govs is a public-private collaborative network in South Florida that brings
 
 Events will occur monthly, iteratively improving to meet the needs of the community. We will aim to have an audience to represent internal government with topics that focus on a centered theme of data governance through data sharing and more.
  
-This is an intiative proposed by [Gregory Johnson](https://www.HiGregory.com/) of Microsoft TechSpark and Lucas Hernandez, Director of Civic Engagement of the program. 
-
+This is an intiative proposed by [Gregory Johnson](https://www.HiGregory.com/)
 
 ## Agenda 
 
